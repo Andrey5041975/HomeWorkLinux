@@ -1,0 +1,14 @@
+   0 nano
+   1 ls /tmp
+   2 chmod 744 /tmp/myfirstbash.sh 
+   3 cd /tmp/
+   4 ./myfirstbash.sh 
+   5 nano myfirstbash.sh 
+   6 ./myfirstbash.sh 
+   7 nano myfirstbash.sh 
+   8 ./myfirstbash.sh 
+   9 nano myfirstbash.sh 
+  10 ./myfirstbash.sh 
+  11 history
+  12 export_file history24_03_23.txt
+  13 history > history24_03_23.txt
